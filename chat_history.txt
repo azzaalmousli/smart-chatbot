@@ -1,0 +1,20 @@
+You: hello
+Bot: Hey! 👋 What's your name?
+You: azza 
+Bot: Nice to meet you Azza! 😊 How are you today?
+You: good
+Bot: That's amazing! 😍
+You: how are you
+Bot: Just chatting with you 😄 What about you?
+You: bored
+Bot: Sounds interesting! Tell me more 😊
+You: very bored
+Bot: Let’s find something interesting! 😄
+You: yes
+Bot: You can watch a movie 🎬, read a book 📖, or learn Python 😎
+You: yes movie is a good choice thannks
+Bot: That's amazing! 😍
+You: ty
+Bot: Anytime! 😄
+You: bye
+Bot: Goodbye Azza! 👋
